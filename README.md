@@ -93,7 +93,7 @@ Once the server processes the data, it responds with an HTTP status code and a J
 -Postman will display the API's response in the lower part of the window. You can review the HTTP status code, response headers, and the response body, which typically contains the data provided by the API.
 
 >***Test Other Endpoints:***
--You can repeat the above steps with different endpoints, such as postPrint, postUpdate, and postDelete, and customize the payloads as needed for various database operations.
+-You can repeat the above steps with different endpoints, such as printName, updateName, and deleteName, and customize the payloads as needed for various database operations.
 
 ***By following these steps, you can effectively utilize Postman to interact with the API and perform tasks like data insertion, updating, retrieval, and deletion from the database.***
 
